@@ -1,8 +1,8 @@
 # 📍 이윤서
 
-**전공:** SW융합대학 정보통계학과  
-**이메일:** yslee00178@gmail.com
-**GitHub:** [github.com/yoonseo3223](https://github.com/yoonseo3223)
+- **전공:** SW융합대학 정보통계학과  
+- **이메일:** yslee00178@gmail.com
+- **GitHub:** [github.com/yoonseo3223](https://github.com/yoonseo3223)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 📍 부스트코스 인공지능 기초 다지기 코칭스터디 수료:contentReference[oaicite:0]{index=0}
+### 📍 부스트코스 인공지능 기초 다지기 코칭스터디 수료
 - **기간:** 2023.01.12 – 2023.02.23  
 - **내용:** 네이버 커넥트재단 주관 **「부스트코스 인공지능 기초 다지기 코칭스터디 : 2023」** 과정 수료  
 - **성과:**  
