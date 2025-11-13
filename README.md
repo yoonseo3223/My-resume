@@ -41,13 +41,13 @@
 
 ​
 
-- **언어:** Python, C, C++  
+- **언어:** Python, C, C++, HTML, R, SPSS
 
 - **도구:** VS Code, Figma  
 
 - **협업:** GitHub, Notion, Slack  
 
-- **분야:** 데이터 분석, AI 모델링, 시계열 예측  
+- **분야:** 데이터 분석, 시각화, UI 제작
 
 ​
 
