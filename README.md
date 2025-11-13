@@ -216,43 +216,17 @@
 
 ### 📍 데이터 자격증 (Certification)
 
--SQLD
+- **SQLD**
 
--(ADSP (11/21 결과발표))
+- **ADSP**
 
--(사회조사분석사 2급 실기(진행중))
-
-​
-
----
-
-​
-
-##  📍 커밋 이력 관리 (Commit History Example)
-
-| 단계 | 커밋 메시지 예시 | 설명 |
-
-|------|- -----------------|------|
-
-| 1️⃣ | `init: Create README.md` | 초기 README 파일 생성 |
-
-| 2️⃣ | `docs: Add About Me and Tech Stack` | 자기소개 및 기술 스택 추가 |
-
-| 3️⃣ | `feat: Add project and experience details` | 프로젝트 및 활동 내용 추가 |
-
-| 4️⃣ | `style: Unify icons and adjust layout` | 아이콘 통일 및 레이아웃 정리 |
-
-| 5️⃣ | `docs: Add awards and commit examples` | 수상 내역·커밋 예시 추가 |
-
-| 6️⃣ | `fix: Typo and spacing corrections` | 오타 및 띄어쓰기 수정 |
-
-| 7️⃣ | `final: Polish README for submission` | 제출용 최종 버전 정리 |
+-(사회조사분석사 2급 필기 합/실기(진행중))
 
 ​
 
 ---
 
-​
+
 
 ## 📍 Contact
 
